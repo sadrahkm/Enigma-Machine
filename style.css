@@ -1,0 +1,60 @@
+.top_keyboard {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.top_keyboard span {
+    background-color: #403c39;
+    border-radius: 100%;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 33px 19px;
+    width: 55px;
+    height: 55px;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+
+#enigma {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#enigma input {
+    width: 80%;
+    padding: 15px;
+}
+
+.plugboard {
+    text-align: center;
+}
+
+.plugboard p {
+    /* background-color: #403c39; */
+    border-radius: 100%;
+    /* color: #fff; */
+    font-weight: 500;
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 33px 19px;
+    width: 55px;
+    height: 55px;
+    box-sizing: border-box;
+    padding-top: 10px;
+    position: relative;
+    cursor: pointer;
+}
+
+span.plug {
+    width: 30px;
+    height: 30px;
+    border: 6px solid #000;
+    display: inline-block;
+    position: absolute;
+    bottom: -15px;
+    left: 15px;
+    border-radius: 100%;
+}

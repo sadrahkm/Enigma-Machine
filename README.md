@@ -5,14 +5,14 @@ This is a simulation of the Enigma Machine which is a cipher device. It was bein
 ![](screenshot.png)
 
 ## Installation
-Clone the repository
+Clone the repository.
 ```
 git clone https://github.com/sadrahkm/Enigma-Machine
 cd Enigma-Machine
 ```
-Start php server
+Start php server.
 ```
 php -S localhost:8000 -t .
 ```
-Now you can visit the website on port 8000 of you localhost.
+Now you can visit the website on port 8000 of your localhost.
 

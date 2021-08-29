@@ -4,7 +4,6 @@ if (isset($_POST['data'])) {
     $plain = $_POST['data'];
 
     $alphabet = "abcdefghijklmnopqrstuvwxyz";
-//$plain = "hihi";
     $cypher = "";
     list($r1, $r2, $r3,$state) = explode("\n", file_get_contents('rotors.enigma'));
     function reflector($char)

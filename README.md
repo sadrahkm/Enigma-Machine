@@ -1,6 +1,6 @@
 # Enigma Machine
 
-This is a simulation of the Enigma Machine which is a cipher device. It was being used by the Nazi army during World War 2.
+This is a simulation of the Enigma Machine, which is a cipher device. The Nazi army was using it during the World War 2.
 
 ![](screenshot.png)
 
